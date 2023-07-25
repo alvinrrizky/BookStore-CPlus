@@ -1,0 +1,23 @@
+						           DAFTAR BUKU-BUKU SEWA 
+
+     CODE          NAMA BUKU					        PENGARANG		          HARGA		   KUOTA
+      01	The Fault in Our Stars					John Green                         RP. 40000         4  	
+      02	Before I Fall                                           Lauren Oliver                      RP. 40000         4  	
+      03	Gustira                                                 Eko Ivano Winata                   RP. 45000 	     4  	
+      04	Garis Waktu                                             Fiersa Besari                      RP. 45000 	     5  	
+      05	Mariposa                                                Luluk HF                           RP. 45000 	     5   	
+      06	Komet Minor                                             Tere Liye                          RP. 47000 	     5  	
+      07	Mantappu Jiwa                                           Jerome Polin                       RP. 47000 	     5  	
+      08	Think and Grow Rich                                     Napoleon Hill                      RP. 50000 	     4  	
+      09	Who Moved My Cheese?                                    Spencer Johnson                    RP. 50000 	     4  	
+      10	Clever Land                                             Lucy Crehan                        RP. 53000 	     4    	
+      11	Thirteen Reasons Why                                    Jay Asher                          RP. 55000 	     5   	
+      12	The Power of Habbit                                     Charles Duhigg                     RP. 57000 	     4    	
+      13	Breakthrough!                                           Muk Kuang                          RP. 57000 	     4   	
+      14	Maze Runner : The Death Cure                            James Dashner                      RP. 60000 	     6    	
+      15	The Art of Choosing                                     Sheena Iyengar                     RP. 63000 	     3    	
+      16	Thinking Fast & Slow                                    Daniel Kahneman                    RP. 63000 	     3   	
+      17	Danur			                                Risa Saraswati		           RP. 65000 	     3    	
+      18	Java Concurrency in Practice                            Brian Goetz                        RP. 65000         3    	
+      19	Code Complete 2                                         Steve McConnell                    RP. 65000 	     3  	
+      20	Janshen                 				Risa Saraswati                     RP. 65000 	     3
